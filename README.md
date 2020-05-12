@@ -59,16 +59,15 @@ app.put("/api/workouts/:id", (req, res) => {
 
 ## Deployed Link
 
-* [See Live Site](#)
+* [See Live Site](https://calm-badlands-57566.herokuapp.com/?id=5eba3c334ad7e2001779ae5f)
 
 
 ## Authors
 
-* **YOUR NAME** 
+* **Sam Poppe** 
 
-- [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
+- [Link to Github](https://github.com/PopSizzle)
+- [Link to LinkedIn](https://www.linkedin.com/in/sam-poppe-623281193/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -78,6 +77,4 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
+* Credit to Trilogy Education Services for providing much of the front end code, my teacher Jerome Chenette and teaching assistants Kerwin Hy and Mahisha Gunasekaran for their guidance and patience, and Ana Medrano for help troubleshooting the app.
